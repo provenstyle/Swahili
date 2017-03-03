@@ -1,6 +1,11 @@
 # Swahili
 Learning Swahili
 
-#Nouns
+http://mylanguages.org/swahili_verbs.php
 
-#Verbs
+##greetings
+jambo
+
+##Nouns
+
+##Verbs
